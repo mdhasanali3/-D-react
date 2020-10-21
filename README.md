@@ -7,9 +7,9 @@ This is a react project to contribute or check
 ## If you facing error
 * update react library
 1. run npm audit fix
-    check manually the vulnerabilities
+  `\n`  check manually the vulnerabilities
 2. run npm audit
-    if you have no patience 
+   `\n` if you have no patience 
 3. run npm audit fix --force 
 
 
